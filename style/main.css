@@ -44,8 +44,8 @@ header nav a:hover {
 
 /*filme principal*/
 .filme-principal {
-    font-size: 16px;
-    background: url('/netflix-clone/img/capa-star-mK286PAkhgLJqk5cO0BCmFLkNE7.jpg');
+    font-size: 13px;
+    background: url('/img/capa-star_treck-3yb0zHG482KEPic6alCUrdGU7xR.jpg');
 
     height: 400px;
     background-size: cover;
@@ -63,8 +63,8 @@ header nav a:hover {
 
 .filme-principal .titulo {
     margin-top: 15px;
-    font-size: 40px;
-    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .botao {
@@ -90,15 +90,15 @@ header nav a:hover {
 }
 
 .container {
-    margin-left: 20px;
+    margin-left: 5px;
 }
 
 .filme-principal .container {
     width: 70%;
 }
 
-.box-flime {
-    height: 100px;
+.box-filme {
+    height: 230px;
     width: 100px;
     display: block;
 }
